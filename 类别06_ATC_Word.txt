@@ -1,0 +1,46 @@
+H SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS
+
+H01 PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES
+H01A ANTERIOR PITUITARY LOBE HORMONES AND ANALOGUES
+H01AA ACTH
+H01AB Thyrotropin
+H01AC Somatropin and somatropin agonists
+H01AX Other anterior pituitary lobe hormones and analogues
+H01B POSTERIOR PITUITARY LOBE HORMONES
+H01BA Vasopressin and analogues
+H01BB Oxytocin and analogues
+H01C HYPOTHALAMIC HORMONES
+H01CA Gonadotropin-releasing hormones
+H01CB Somatostatin and analogues
+H01CC Anti-gonadotropin-releasing hormones
+
+H02 CORTICOSTEROIDS FOR SYSTEMIC USE
+H02A CORTICOSTEROIDS FOR SYSTEMIC USE, PLAIN
+H02AA Mineralocorticoids
+H02AB Glucocorticoids
+H02B CORTICOSTEROIDS FOR SYSTEMIC USE, COMBINATIONS
+H02BX Corticosteroids for systemic use, combinations
+H02C ANTIADRENAL PREPARATIONS
+H02CA Anticorticosteroids
+
+H03 THYROID THERAPY
+H03A THYROID PREPARATIONS
+H03AA Thyroid hormones
+H03B ANTITHYROID PREPARATIONS
+H03BA Thiouracils
+H03BB Sulfur-containing imidazole derivatives
+H03BC Perchlorates
+H03BX Other antithyroid preparations
+H03C IODINE THERAPY
+H03CA Iodine therapy
+
+H04 PANCREATIC HORMONES
+H04A GLYCOGENOLYTIC HORMONES
+H04AA Glycogenolytic hormones
+
+H05 CALCIUM HOMEOSTASIS
+H05A PARATHYROID HORMONES AND ANALOGUES
+H05AA Parathyroid hormones and analogues
+H05B ANTI-PARATHYROID AGENTS
+H05BA Calcitonin preparations
+H05BX Other anti-parathyroid agents

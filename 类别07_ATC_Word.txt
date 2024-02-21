@@ -1,0 +1,122 @@
+J ANTIINFECTIVES FOR SYSTEMIC USE
+
+J01 ANTIBACTERIALS FOR SYSTEMIC USE
+J01A TETRACYCLINES
+J01AA Tetracyclines
+J01B AMPHENICOLS
+J01BA Amphenicols
+J01C BETA-LACTAM ANTIBACTERIALS, PENICILLINS
+J01CA Penicillins with extended spectrum
+J01CE Beta-lactamase sensitive penicillins
+J01CF Beta-lactamase resistant penicillins
+J01CG Beta-lactamase inhibitors
+J01CR Combinations of penicillins, incl. beta-lactamase inhibitors
+J01D OTHER BETA-LACTAM ANTIBACTERIALS
+J01DB First-generation cephalosporins
+J01DC Second-generation cephalosporins
+J01DD Third-generation cephalosporins
+J01DE Fourth-generation cephalosporins
+J01DF Monobactams
+J01DH Carbapenems
+J01DI Other cephalosporins and penems
+J01E SULFONAMIDES AND TRIMETHOPRIM
+J01EA Trimethoprim and derivatives
+J01EB Short-acting sulfonamides
+J01EC Intermediate-acting sulfonamides
+J01ED Long-acting sulfonamides
+J01EE Combinations of sulfonamides and trimethoprim, incl. derivatives
+J01F MACROLIDES, LINCOSAMIDES AND STREPTOGRAMINS
+J01FA Macrolides
+J01FF Lincosamides
+J01FG Streptogramins
+J01G AMINOGLYCOSIDE ANTIBACTERIALS
+J01GA Streptomycins
+J01GB Other aminoglycosides
+J01M QUINOLONE ANTIBACTERIALS
+J01MA Fluoroquinolones
+J01MB Other quinolones
+J01R COMBINATIONS OF ANTIBACTERIALS
+J01RA Combinations of antibacterials
+J01X OTHER ANTIBACTERIALS
+J01XA Glycopeptide antibacterials
+J01XB Polymyxins
+J01XC Steroid antibacterials
+J01XD Imidazole derivatives
+J01XE Nitrofuran derivatives
+J01XX Other antibacterials
+
+J02 ANTIMYCOTICS FOR SYSTEMIC USE
+J02A ANTIMYCOTICS FOR SYSTEMIC USE
+J02AA Antibiotics
+J02AB Imidazole derivatives
+J02AC Triazole and tetrazole derivatives
+J02AX Other antimycotics for systemic use
+
+J04 ANTIMYCOBACTERIALS
+J04A DRUGS FOR TREATMENT OF TUBERCULOSIS
+J04AA Aminosalicylic acid and derivatives
+J04AB Antibiotics
+J04AC Hydrazides
+J04AD Thiocarbamide derivatives
+J04AK Other drugs for treatment of tuberculosis
+J04AM Combinations of drugs for treatment of tuberculosis
+J04B DRUGS FOR TREATMENT OF LEPRA
+J04BA Drugs for treatment of lepra
+
+J05 ANTIVIRALS FOR SYSTEMIC USE
+J05A DIRECT ACTING ANTIVIRALS
+J05AA Thiosemicarbazones
+J05AB Nucleosides and nucleotides excl. reverse transcriptase inhibitors
+J05AC Cyclic amines
+J05AD Phosphonic acid derivatives
+J05AE Protease inhibitors
+J05AF Nucleoside and nucleotide reverse transcriptase inhibitors
+J05AG Non-nucleoside reverse transcriptase inhibitors
+J05AH Neuraminidase inhibitors
+J05AJ Integrase inhibitors
+J05AP Antivirals for treatment of HCV infections
+J05AR Antivirals for treatment of HIV infections, combinations
+J05AX Other antivirals
+
+J06 IMMUNE SERA AND IMMUNOGLOBULINS
+J06A IMMUNE SERA
+J06AA Immune sera
+J06B IMMUNOGLOBULINS
+J06BA Immunoglobulins, normal human
+J06BB Specific immunoglobulins
+J06BC Antibacterial monoclonal antibodies
+J06BD Antiviral monoclonal antibodies
+
+J07 VACCINES
+J07A BACTERIAL VACCINES
+J07AC Anthrax vaccines
+J07AD Brucellosis vaccines
+J07AE Cholera vaccines
+J07AF Diphtheria vaccines
+J07AG Haemophilus influenzae B vaccines
+J07AH Meningococcal vaccines
+J07AJ Pertussis vaccines
+J07AK Plague vaccines
+J07AL Pneumococcal vaccines
+J07AM Tetanus vaccines
+J07AN Tuberculosis vaccines
+J07AP Typhoid vaccines
+J07AR Typhus (exanthematicus) vaccines
+J07AX Other bacterial vaccines
+J07B VIRAL VACCINES
+J07BA Encephalitis vaccines
+J07BB Influenza vaccines
+J07BC Hepatitis vaccines
+J07BD Measles vaccines
+J07BE Mumps vaccines
+J07BF Poliomyelitis vaccines
+J07BG Rabies vaccines
+J07BH Rota virus diarrhea vaccines
+J07BJ Rubella vaccines
+J07BK Varicella zoster vaccines
+J07BL Yellow fever vaccines
+J07BM Papillomavirus vaccines
+J07BX Other viral vaccines
+J07C BACTERIAL AND VIRAL VACCINES, COMBINED
+J07CA Bacterial and viral vaccines, combined
+J07X OTHER VACCINES

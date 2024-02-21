@@ -1,0 +1,87 @@
+L ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS
+
+L01 ANTINEOPLASTIC AGENTS
+L01A ALKYLATING AGENTS
+L01AA Nitrogen mustard analogues
+L01AB Alkyl sulfonates
+L01AC Ethylene imines
+L01AD Nitrosoureas
+L01AG Epoxides
+L01AX Other alkylating agents
+L01B ANTIMETABOLITES
+L01BA Folic acid analogues
+L01BB Purine analogues
+L01BC Pyrimidine analogues
+L01C PLANT ALKALOIDS AND OTHER NATURAL PRODUCTS
+L01CA Vinca alkaloids and analogues
+L01CB Podophyllotoxin derivatives
+L01CC Colchicine derivatives
+L01CD Taxanes
+L01CE Topoisomerase 1 (TOP1) inhibitors
+L01CX Other plant alkaloids and natural products
+L01D CYTOTOXIC ANTIBIOTICS AND RELATED SUBSTANCES
+L01DA Actinomycines
+L01DB Anthracyclines and related substances
+L01DC Other cytotoxic antibiotics
+L01E PROTEIN KINASE INHIBITORS
+L01EA BCR-ABL tyrosine kinase inhibitors
+L01EB Epidermal growth factor receptor (EGFR) tyrosine kinase inhibitors
+L01EC B-Raf serine-threonine kinase (BRAF) inhibitors
+L01ED Anaplastic lymphoma kinase (ALK) inhibitors
+L01EE Mitogen-activated protein kinase (MEK) inhibitors
+L01EF Cyclin-dependent kinase (CDK) inhibitors
+L01EG Mammalian target of rapamycin (mTOR) kinase inhibitors
+L01EH Human epidermal growth factor receptor 2 (HER2) tyrosine kinase inhibitors
+L01EJ Janus-associated kinase (JAK) inhibitors
+L01EK Vascular endothelial growth factor receptor (VEGFR) tyrosine kinase inhibitors
+L01EL Bruton's tyrosine kinase (BTK) inhibitors
+L01EM Phosphatidylinositol-3-kinase (Pi3K) inhibitors
+L01EN Fibroblast growth factor receptor (FGFR) tyrosine kinase inhibitors
+L01EX Other protein kinase inhibitors
+L01F MONOCLONAL ANTIBODIES AND ANTIBODY DRUG CONJUGATES
+L01FA CD20 (Clusters of Differentiation 20) inhibitors
+L01FB CD22 (Clusters of Differentiation 22) inhibitors
+L01FC CD38 (Clusters of Differentiation 38) inhibitors
+L01FD HER2 (Human Epidermal Growth Factor Receptor 2) inhibitors
+L01FE EGFR (Epidermal Growth Factor Receptor) inhibitors
+L01FF PD-1/PDL-1 (Programmed cell death protein 1/death ligand 1) inhibitors
+L01FG VEGF/VEGFR (Vascular Endothelial Growth Factor) inhibitors
+L01FX Other monoclonal antibodies and antibody drug conjugates
+L01X OTHER ANTINEOPLASTIC AGENTS
+L01XA Platinum compounds
+L01XB Methylhydrazines
+L01XD Sensitizers used in photodynamic/radiation therapy
+L01XF Retinoids for cancer treatment
+L01XG Proteasome inhibitors
+L01XH Histone deacetylase (HDAC) inhibitors
+L01XJ Hedgehog pathway inhibitors
+L01XK Poly (ADP-ribose) polymerase (PARP) inhibitors
+L01XX Other antineoplastic agents
+L01XY Combinations of antineoplastic agents
+
+L02 ENDOCRINE THERAPY
+L02A HORMONES AND RELATED AGENTS
+L02AA Estrogens
+L02AB Progestogens
+L02AE Gonadotropin releasing hormone analogues
+L02AX Other hormones
+L02B HORMONE ANTAGONISTS AND RELATED AGENTS
+L02BA Anti-estrogens
+L02BB Anti-androgens
+L02BG Aromatase inhibitors
+L02BX Other hormone antagonists and related agents
+
+L03 IMMUNOSTIMULANTS
+L03A IMMUNOSTIMULANTS
+L03AA Colony stimulating factors
+L03AB Interferons
+L03AC Interleukins
+L03AX Other immunostimulants
+
+L04 IMMUNOSUPPRESSANTS
+L04A IMMUNOSUPPRESSANTS
+L04AA Selective immunosuppressants
+L04AB Tumor necrosis factor alpha (TNF-α) inhibitors
+L04AC Interleukin inhibitors
+L04AD Calcineurin inhibitors
+L04AX Other immunosuppressants
