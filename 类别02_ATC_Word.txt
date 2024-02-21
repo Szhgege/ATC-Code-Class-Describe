@@ -1,0 +1,56 @@
+B BLOOD AND BLOOD FORMING ORGANS
+
+B01 ANTITHROMBOTIC AGENTS
+B01A ANTITHROMBOTIC AGENTS
+B01AA Vitamin K antagonists
+B01AB Heparin group
+B01AC Platelet aggregation inhibitors excl. heparin
+B01AD Enzymes
+B01AE Direct thrombin inhibitors
+B01AF Direct factor Xa inhibitors
+B01AX Other antithrombotic agents
+
+B02 ANTIHEMORRHAGICS
+B02A ANTIFIBRINOLYTICS
+B02AA Amino acids
+B02AB Proteinase inhibitors
+
+B03 ANTIANEMIC PREPARATIONS
+B03A IRON PREPARATIONS
+B03AA Iron bivalent, oral preparations
+B03AB Iron trivalent, oral preparations
+B03AC Iron, parenteral preparations
+B03AD Iron in combination with folic acid
+B03AE Iron in other combinations
+B03B VITAMIN B12 AND FOLIC ACID
+B03BA Vitamin B12 (cyanocobalamin and analogues)
+B03BB Folic acid and derivatives
+B03X OTHER ANTIANEMIC PREPARATIONS
+B03XA Other antianemic preparations
+
+B05 BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS
+B05A BLOOD AND RELATED PRODUCTS
+B05AA Blood substitutes and plasma protein fractions
+B05AX Other blood products
+B05B I.V. SOLUTIONS
+B05BA Solutions for parenteral nutrition
+B05BB Solutions affecting the electrolyte balance
+B05BC Solutions producing osmotic diuresis
+B05C IRRIGATING SOLUTIONS
+B05CA Antiinfectives
+B05CB Salt solutions
+B05CX Other irrigating solutions
+B05D PERITONEAL DIALYTICS
+B05DA Isotonic solutions
+B05DB Hypertonic solutions
+B05X I.V. SOLUTION ADDITIVES
+B05XA Electrolyte solutions
+B05XB Amino acids
+B05XC Vitamins
+B05XX Other i.v. solution additives
+B05Z HEMODIALYTICS AND HEMOFILTRATES
+B05ZA Hemodialytics, concentrates
+B05ZB Hemofiltrates
+
+B06 OTHER HEMATOLOGICAL AGENTS
+B06A OTHER HEMATOLOGICAL AGENTS
