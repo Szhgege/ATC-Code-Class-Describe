@@ -1,0 +1,120 @@
+D DERMATOLOGICALS
+
+D01 ANTIFUNGALS FOR DERMATOLOGICAL USE
+D01A ANTIFUNGALS FOR TOPICAL USE
+D01AA Antibiotics
+D01AC Imidazole and triazole derivatives
+D01AE Other antifungals for topical use
+D01B ANTIFUNGALS FOR SYSTEMIC USE
+D01BA Antifungals for systemic use
+
+D02 EMOLLIENTS AND PROTECTIVES
+D02A EMOLLIENTS AND PROTECTIVES
+D02AA Silicone products
+D02AB Zinc products
+D02AC Soft paraffin and fat products
+D02AD Liquid plasters
+D02AE Carbamide products
+D02AF Salicylic acid preparations
+D02AX Other emollients and protectives
+D02B PROTECTIVES AGAINST UV-RADIATION
+D02BA Protectives against UV-radiation for topical use
+D02BB Protectives against UV-radiation for systemic use
+
+D03 PREPARATIONS FOR TREATMENT OF WOUNDS AND ULCERS
+D03A CICATRIZANTS
+D03AA Cod-liver oil ointments
+D03AX Other cicatrizants
+D03B ENZYMES
+D03BA Proteolytic enzymes
+
+D04 ANTIPRURITICS, INCL. ANTIHISTAMINES, ANESTHETICS, ETC.
+D04A ANTIPRURITICS, INCL. ANTIHISTAMINES, ANESTHETICS, ETC.
+D04AA Antihistamines for topical use
+D04AB Anesthetics for topical use
+D04AX Other antipruritics
+
+D05 ANTIPSORIATICS
+D05A ANTIPSORIATICS FOR TOPICAL USE
+D05AA Tars
+D05AC Antracen derivatives
+D05AD Psoralens for topical use
+D05AX Other antipsoriatics for topical use
+D05B ANTIPSORIATICS FOR SYSTEMIC USE
+D05BA Psoralens for systemic use
+D05BB Retinoids for treatment of psoriasis
+D05BX Other antipsoriatics for systemic use
+
+D06 ANTIBIOTICS AND CHEMOTHERAPEUTICS FOR DERMATOLOGICAL USE
+D06A ANTIBIOTICS FOR TOPICAL USE
+D06AA Tetracycline and derivatives
+D06AX Other antibiotics for topical use
+D06B CHEMOTHERAPEUTICS FOR TOPICAL USE
+D06BA Sulfonamides
+D06BB Antivirals
+D06BX Other chemotherapeutics
+D06C ANTIBIOTICS AND CHEMOTHERAPEUTICS, COMBINATIONS
+
+D07 CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS
+D07A CORTICOSTEROIDS, PLAIN
+D07AA Corticosteroids, weak (group I)
+D07AB Corticosteroids, moderately potent (group II)
+D07AC Corticosteroids, potent (group III)
+D07AD Corticosteroids, very potent (group IV)
+D07B CORTICOSTEROIDS, COMBINATIONS WITH ANTISEPTICS
+D07BA Corticosteroids, weak, combinations with antiseptics
+D07BB Corticosteroids, moderately potent, combinations with antiseptics
+D07BC Corticosteroids, potent, combinations with antiseptics
+D07BD Corticosteroids, very potent, combinations with antiseptics
+D07C CORTICOSTEROIDS, COMBINATIONS WITH ANTIBIOTICS
+D07CA Corticosteroids, weak, combinations with antibiotics
+D07CB Corticosteroids, moderately potent, combinations with antibiotics
+D07CC Corticosteroids, potent, combinations with antibiotics
+D07CD Corticosteroids, very potent, combinations with antibiotics
+D07X CORTICOSTEROIDS, OTHER COMBINATIONS
+D07XA Corticosteroids, weak, other combinations
+D07XB Corticosteroids, moderately potent, other combinations
+D07XC Corticosteroids, potent, other combinations
+D07XD Corticosteroids, very potent, other combinations
+
+D08 ANTISEPTICS AND DISINFECTANTS
+D08A ANTISEPTICS AND DISINFECTANTS
+D08AA Acridine derivatives
+D08AB Aluminium agents
+D08AC Biguanides and amidines
+D08AD Boric acid products
+D08AE Phenol and derivatives
+D08AF Nitrofuran derivatives
+D08AG Iodine products
+D08AH Quinoline derivatives
+D08AJ Quaternary ammonium compounds
+D08AK Mercurial products
+D08AL Silver compounds
+D08AX Other antiseptics and disinfectants
+
+D09 MEDICATED DRESSINGS
+D09A MEDICATED DRESSINGS
+D09AA Medicated dressings with antiinfectives
+D09AB Zinc bandages
+D09AX Soft paraffin dressings
+
+D10 ANTI-ACNE PREPARATIONS
+D10A ANTI-ACNE PREPARATIONS FOR TOPICAL USE
+D10AA Corticosteroids, combinations for treatment of acne
+D10AB Preparations containing sulfur
+D10AD Retinoids for topical use in acne
+D10AE Peroxides
+D10AF Antiinfectives for treatment of acne
+D10AX Other anti-acne preparations for topical use
+D10B ANTI-ACNE PREPARATIONS FOR SYSTEMIC USE
+D10BA Retinoids for treatment of acne
+D10BX Other anti-acne preparations for systemic use
+
+D11 OTHER DERMATOLOGICAL PREPARATIONS
+D11A OTHER DERMATOLOGICAL PREPARATIONS
+D11AA Antihidrotics
+D11AC Medicated shampoos
+D11AE Androgens for topical use
+D11AF Wart and anti-corn preparations
+D11AH Agents for dermatitis, excluding corticosteroids
+D11AX Other dermatologicals

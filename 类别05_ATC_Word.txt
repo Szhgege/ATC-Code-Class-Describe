@@ -1,0 +1,82 @@
+G GENITO URINARY SYSTEM AND SEX HORMONES
+
+G01 GYNECOLOGICAL ANTIINFECTIVES AND ANTISEPTICS
+G01A ANTIINFECTIVES AND ANTISEPTICS, EXCL. COMBINATIONS WITH CORTICOSTEROIDS
+G01AA Antibiotics
+G01AB Arsenic compounds
+G01AC Quinoline derivatives
+G01AD Organic acids
+G01AE Sulfonamides
+G01AF Imidazole derivatives
+G01AG Triazole derivatives
+G01AX Other antiinfectives and antiseptics
+G01B ANTIINFECTIVES/ANTISEPTICS IN COMBINATION WITH CORTICOSTEROIDS
+G01BA Antibiotics and corticosteroids
+G01BC Quinoline derivatives and corticosteroids
+G01BD Antiseptics and corticosteroids
+G01BE Sulfonamides and corticosteroids
+G01BF Imidazole derivatives and corticosteroids
+
+G02 OTHER GYNECOLOGICALS
+G02A UTEROTONICS
+G02AB Ergot alkaloids
+G02AC Ergot alkaloids and oxytocin incl. analogues, in combination
+G02AD Prostaglandins
+G02AX Other uterotonics
+G02B CONTRACEPTIVES FOR TOPICAL USE
+G02BA Intrauterine contraceptives
+G02BB Intravaginal contraceptives
+G02C OTHER GYNECOLOGICALS
+G02CA Sympathomimetics, labour repressants
+G02CB Prolactine inhibitors
+G02CC Antiinflammatory products for vaginal administration
+G02CX Other gynecologicals
+
+G03 SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM
+G03A HORMONAL CONTRACEPTIVES FOR SYSTEMIC USE
+G03AA Progestogens and estrogens, fixed combinations
+G03AB Progestogens and estrogens, sequential preparations
+G03AC Progestogens
+G03AD Emergency contraceptives
+G03B ANDROGENS
+G03BA 3-oxoandrosten (4) derivatives
+G03BB 5-androstanon (3) derivatives
+G03C ESTROGENS
+G03CA Natural and semisynthetic estrogens, plain
+G03CB Synthetic estrogens, plain
+G03CC Estrogens, combinations with other drugs
+G03CX Other estrogens
+G03D PROGESTOGENS
+G03DA Pregnen (4) derivatives
+G03DB Pregnadien derivatives
+G03DC Estren derivatives
+G03E ANDROGENS AND FEMALE SEX HORMONES IN COMBINATION
+G03EA Androgens and estrogens
+G03EB Androgen, progestogen and estrogen in combination
+G03EK Androgens and female sex hormones in combination with other drugs
+G03F PROGESTOGENS AND ESTROGENS IN COMBINATION
+G03FA Progestogens and estrogens, fixed combinations
+G03FB Progestogens and estrogens, sequential preparations
+G03G GONADOTROPINS AND OTHER OVULATION STIMULANTS
+G03GA Gonadotropins
+G03GB Ovulation stimulants, synthetic
+G03H ANTIANDROGENS
+G03HA Antiandrogens, plain
+G03HB Antiandrogens and estrogens
+G03X OTHER SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM
+G03XA Antigonadotropins and similar agents
+G03XB Progesterone receptor modulators
+G03XC Selective estrogen receptor modulators
+G03XX Other sex hormones and modulators of the genital system
+
+G04 UROLOGICALS
+G04B UROLOGICALS
+G04BA Acidifiers
+G04BC Urinary concrement solvents
+G04BD Drugs for urinary frequency and incontinence
+G04BE Drugs used in erectile dysfunction
+G04BX Other urologicals
+G04C DRUGS USED IN BENIGN PROSTATIC HYPERTROPHY
+G04CA Alpha-adrenoreceptor antagonists
+G04CB Testosterone-5-alpha reductase inhibitors
+G04CX Other drugs used in benign prostatic hypertrophy
