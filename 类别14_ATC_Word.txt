@@ -1,0 +1,129 @@
+V VARIOUS
+
+V01 ALLERGENS
+V01A ALLERGENS
+V01AA Allergen extracts
+
+V03 ALL OTHER THERAPEUTIC PRODUCTS
+V03A ALL OTHER THERAPEUTIC PRODUCTS
+V03AB Antidotes
+V03AC Iron chelating agents
+V03AE Drugs for treatment of hyperkalemia and hyperphosphatemia
+V03AF Detoxifying agents for antineoplastic treatment
+V03AG Drugs for treatment of hypercalcemia
+V03AH Drugs for treatment of hypoglycemia
+V03AK Tissue adhesives
+V03AM Drugs for embolisation
+V03AN Medical gases
+V03AX Other therapeutic products
+V03AZ Nerve depressants
+
+V04 DIAGNOSTIC AGENTS
+V04B URINE TESTS
+V04C OTHER DIAGNOSTIC AGENTS
+V04CA Tests for diabetes
+V04CB Tests for fat absorption
+V04CC Tests for bile duct patency
+V04CD Tests for pituitary function
+V04CE Tests for liver functional capacity
+V04CF Tuberculosis diagnostics
+V04CG Tests for gastric secretion
+V04CH Tests for renal function and ureteral injuries
+V04CJ Tests for thyreoidea function
+V04CK Tests for pancreatic function
+V04CL Tests for allergic diseases
+V04CM Tests for fertility disturbances
+V04CX Other diagnostic agents
+
+V06 GENERAL NUTRIENTS
+V06A DIET FORMULATIONS FOR TREATMENT OF OBESITY
+V06AA Low-energy diets
+V06B PROTEIN SUPPLEMENTS
+V06C INFANT FORMULAS
+V06CA Nutrients without phenylalanine
+V06D OTHER NUTRIENTS
+V06DA Carbohydrates/proteins/minerals/vitamins, combinations
+V06DB Fat/carbohydrates/proteins/minerals/vitamins, combinations
+V06DC Carbohydrates
+V06DD Amino acids, incl. combinations with polypeptides
+V06DE Amino acids/carbohydrates/minerals/vitamins, combinations
+V06DF Milk substitutes
+V06DX Other combinations of nutrients
+
+V07 ALL OTHER NON-THERAPEUTIC PRODUCTS
+V07A ALL OTHER NON-THERAPEUTIC PRODUCTS
+V07AA Plasters
+V07AB Solvents and diluting agents, incl. irrigating solutions
+V07AC Blood transfusion, auxiliary products
+V07AD Blood tests, auxiliary products
+V07AN Incontinence equipment
+V07AR Sensitivity tests, discs and tablets
+V07AS Stomi equipment
+V07AT Cosmetics
+V07AV Technical disinfectants
+V07AX Washing agents etc.
+V07AY Other non-therapeutic auxiliary products
+V07AZ Chemicals and reagents for analysis
+
+V08 CONTRAST MEDIA
+V08A X-RAY CONTRAST MEDIA, IODINATED
+V08AA Watersoluble, nephrotropic, high osmolar X-ray contrast media
+V08AB Watersoluble, nephrotropic, low osmolar X-ray contrast media
+V08AC Watersoluble, hepatotropic X-ray contrast media
+V08AD Non-watersoluble X-ray contrast media
+V08B X-RAY CONTRAST MEDIA, NON-IODINATED
+V08BA Barium sulfate containing X-ray contrast media
+V08C MAGNETIC RESONANCE IMAGING CONTRAST MEDIA
+V08CA Paramagnetic contrast media
+V08CB Superparamagnetic contrast media
+V08CX Other magnetic resonance imaging contrast media
+V08D ULTRASOUND CONTRAST MEDIA
+V08DA Ultrasound contrast media
+
+V09 DIAGNOSTIC RADIOPHARMACEUTICALS
+V09A CENTRAL NERVOUS SYSTEM
+V09AA Technetium (99mTc) compounds
+V09AB Iodine (123I) compounds
+V09AX Other central nervous system diagnostic radiopharmaceuticals
+V09B SKELETON
+V09BA Technetium (99mTc) compounds
+V09C RENAL SYSTEM
+V09CA Technetium (99mTc) compounds
+V09CX Other renal system diagnostic radiopharmaceuticals
+V09D HEPATIC AND RETICULO ENDOTHELIAL SYSTEM
+V09DA Technetium (99mTc) compounds
+V09DB Technetium (99mTc), particles and colloids
+V09DX Other hepatic and reticulo endothelial system diagnostic radiopharmaceuticals
+V09E RESPIRATORY SYSTEM
+V09EA Technetium (99mTc), inhalants
+V09EB Technetium (99mTc), particles for injection
+V09EX Other respiratory system diagnostic radiopharmaceuticals
+V09F THYROID
+V09FX Various thyroid diagnostic radiopharmaceuticals
+V09G CARDIOVASCULAR SYSTEM
+V09GA Technetium (99mTc) compounds
+V09GB Iodine (125I) compounds
+V09GX Other cardiovascular system diagnostic radiopharmaceuticals
+V09H INFLAMMATION AND INFECTION DETECTION
+V09HA Technetium (99mTc) compounds
+V09HB Indium (111In) compounds
+V09HX Other diagnostic radiopharmaceuticals for inflammation and infection detection
+V09I TUMOUR DETECTION
+V09IA Technetium (99mTc) compounds
+V09IB Indium (111In) compounds
+V09IX Other diagnostic radiopharmaceuticals for tumour detection
+V09X OTHER DIAGNOSTIC RADIOPHARMACEUTICALS
+V09XA Iodine (131I) compounds
+V09XX Various diagnostic radiopharmaceuticals
+
+V10 THERAPEUTIC RADIOPHARMACEUTICALS
+V10A ANTIINFLAMMATORY AGENTS
+V10AA Yttrium (90Y) compounds
+V10AX Other antiinflammatory therapeutic radiopharmaceuticals
+V10B PAIN PALLIATION (BONE SEEKING AGENTS)
+V10BX Various pain palliation radiopharmaceuticals
+V10X OTHER THERAPEUTIC RADIOPHARMACEUTICALS
+V10XA Iodine (131I) compounds
+V10XX Various therapeutic radiopharmaceuticals
+
+V20 SURGICAL DRESSINGS

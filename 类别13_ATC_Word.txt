@@ -1,0 +1,62 @@
+S SENSORY ORGANS
+
+S01 OPHTHALMOLOGICALS
+S01A ANTIINFECTIVES
+S01AA Antibiotics
+S01AB Sulfonamides
+S01AD Antivirals
+S01AE Fluoroquinolones
+S01AX Other antiinfectives
+S01B ANTIINFLAMMATORY AGENTS
+S01BA Corticosteroids, plain
+S01BB Corticosteroids and mydriatics in combination
+S01BC Antiinflammatory agents, non-steroids
+S01C ANTIINFLAMMATORY AGENTS AND ANTIINFECTIVES IN COMBINATION
+S01CA Corticosteroids and antiinfectives in combination
+S01CB Corticosteroids/antiinfectives/mydriatics in combination
+S01CC Antiinflammatory agents, non-steroids and antiinfectives in combination
+S01E ANTIGLAUCOMA PREPARATIONS AND MIOTICS
+S01EA Sympathomimetics in glaucoma therapy
+S01EB Parasympathomimetics
+S01EC Carbonic anhydrase inhibitors
+S01ED Beta blocking agents
+S01EE Prostaglandin analogues
+S01EX Other antiglaucoma preparations
+S01F MYDRIATICS AND CYCLOPLEGICS
+S01FA Anticholinergics
+S01FB Sympathomimetics excl. antiglaucoma preparations
+S01G DECONGESTANTS AND ANTIALLERGICS
+S01GA Sympathomimetics used as decongestants
+S01GX Other antiallergics
+S01H LOCAL ANESTHETICS
+S01HA Local anesthetics
+S01J DIAGNOSTIC AGENTS
+S01JA Colouring agents
+S01JX Other ophthalmological diagnostic agents
+S01K SURGICAL AIDS
+S01KA Viscoelastic substances
+S01KX Other surgical aids
+S01L OCULAR VASCULAR DISORDER AGENTS
+S01LA Antineovascularisation agents
+S01X OTHER OPHTHALMOLOGICALS
+S01XA Other ophthalmologicals
+
+S02 OTOLOGICALS
+S02A ANTIINFECTIVES
+S02AA Antiinfectives
+S02B CORTICOSTEROIDS
+S02BA Corticosteroids
+S02C CORTICOSTEROIDS AND ANTIINFECTIVES IN COMBINATION
+S02CA Corticosteroids and antiinfectives in combination
+S02D OTHER OTOLOGICALS
+S02DA Analgesics and anesthetics
+S02DC Indifferent preparations
+
+S03 OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS
+S03A ANTIINFECTIVES
+S03AA Antiinfectives
+S03B CORTICOSTEROIDS
+S03BA Corticosteroids
+S03C CORTICOSTEROIDS AND ANTIINFECTIVES IN COMBINATION
+S03CA Corticosteroids and antiinfectives in combination
+S03D OTHER OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS
