@@ -1,0 +1,70 @@
+R RESPIRATORY SYSTEM
+
+R01 NASAL PREPARATIONS
+R01A DECONGESTANTS AND OTHER NASAL PREPARATIONS FOR TOPICAL USE
+R01AA Sympathomimetics, plain
+R01AB Sympathomimetics, combinations excl. corticosteroids
+R01AC Antiallergic agents, excl. corticosteroids
+R01AD Corticosteroids
+R01AX Other nasal preparations
+R01B NASAL DECONGESTANTS FOR SYSTEMIC USE
+R01BA Sympathomimetics
+
+R02 THROAT PREPARATIONS
+R02A THROAT PREPARATIONS
+R02AA Antiseptics
+R02AB Antibiotics
+R02AD Anesthetics, local
+R02AX Other throat preparations
+
+R03 DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES
+R03A ADRENERGICS, INHALANTS
+R03AA Alpha- and beta-adrenoreceptor agonists
+R03AB Non-selective beta-adrenoreceptor agonists
+R03AC Selective beta-2-adrenoreceptor agonists
+R03AH Combinations of adrenergics
+R03AK Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics
+R03AL Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids
+R03B OTHER DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES, INHALANTS
+R03BA Glucocorticoids
+R03BB Anticholinergics
+R03BC Antiallergic agents, excl. corticosteroids
+R03BX Other drugs for obstructive airway diseases, inhalants
+R03C ADRENERGICS FOR SYSTEMIC USE
+R03CA Alpha- and beta-adrenoreceptor agonists
+R03CB Non-selective beta-adrenoreceptor agonists
+R03CC Selective beta-2-adrenoreceptor agonists
+R03CK Adrenergics and other drugs for obstructive airway diseases
+R03D OTHER SYSTEMIC DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES
+R03DA Xanthines
+R03DB Xanthines and adrenergics
+R03DC Leukotriene receptor antagonists
+R03DX Other systemic drugs for obstructive airway diseases
+
+R05 COUGH AND COLD PREPARATIONS
+R05C EXPECTORANTS, EXCL. COMBINATIONS WITH COUGH SUPPRESSANTS
+R05CA Expectorants
+R05CB Mucolytics
+R05D COUGH SUPPRESSANTS, EXCL. COMBINATIONS WITH EXPECTORANTS
+R05DA Opium alkaloids and derivatives
+R05DB Other cough suppressants
+R05F COUGH SUPPRESSANTS AND EXPECTORANTS, COMBINATIONS
+R05FA Opium derivatives and expectorants
+R05FB Other cough suppressants and expectorants
+R05X OTHER COLD PREPARATIONS
+
+R06 ANTIHISTAMINES FOR SYSTEMIC USE
+R06A ANTIHISTAMINES FOR SYSTEMIC USE
+R06AA Aminoalkyl ethers
+R06AB Substituted alkylamines
+R06AC Substituted ethylene diamines
+R06AD Phenothiazine derivatives
+R06AE Piperazine derivatives
+R06AK Combinations of antihistamines
+R06AX Other antihistamines for systemic use
+
+R07 OTHER RESPIRATORY SYSTEM PRODUCTS
+R07A OTHER RESPIRATORY SYSTEM PRODUCTS
+R07AA Lung surfactants
+R07AB Respiratory stimulants
+R07AX Other respiratory system products

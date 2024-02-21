@@ -1,0 +1,127 @@
+N NERVOUS SYSTEM
+
+N01 ANESTHETICS
+N01A ANESTHETICS, GENERAL
+N01AA Ethers
+N01AB Halogenated hydrocarbons
+N01AF Barbiturates, plain
+N01AG Barbiturates in combination with other drugs
+N01AH Opioid anesthetics
+N01AX Other general anesthetics
+N01B ANESTHETICS, LOCAL
+N01BA Esters of aminobenzoic acid
+N01BB Amides
+N01BC Esters of benzoic acid
+N01BX Other local anesthetics
+
+N02 ANALGESICS
+N02A OPIOIDS
+N02AA Natural opium alkaloids
+N02AB Phenylpiperidine derivatives
+N02AC Diphenylpropylamine derivatives
+N02AD Benzomorphan derivatives
+N02AE Oripavine derivatives
+N02AF Morphinan derivatives
+N02AG Opioids in combination with antispasmodics
+N02AJ Opioids in combination with non-opioid analgesics
+N02AX Other opioids
+N02B OTHER ANALGESICS AND ANTIPYRETICS
+N02BA Salicylic acid and derivatives
+N02BB Pyrazolones
+N02BE Anilides
+N02BG Other analgesics and antipyretics
+N02C ANTIMIGRAINE PREPARATIONS
+N02CA Ergot alkaloids
+N02CB Corticosteroid derivatives
+N02CC Selective serotonin (5HT1) agonists
+N02CD Calcitonin gene-related peptide (CGRP) antagonists
+N02CX Other antimigraine preparations
+
+N03 ANTIEPILEPTICS
+N03A ANTIEPILEPTICS
+N03AA Barbiturates and derivatives
+N03AB Hydantoin derivatives
+N03AC Oxazolidine derivatives
+N03AD Succinimide derivatives
+N03AE Benzodiazepine derivatives
+N03AF Carboxamide derivatives
+N03AG Fatty acid derivatives
+N03AX Other antiepileptics
+
+N04 ANTI-PARKINSON DRUGS
+N04A ANTICHOLINERGIC AGENTS
+N04AA Tertiary amines
+N04AB Ethers chemically close to antihistamines
+N04AC Ethers of tropine or tropine derivatives
+N04B DOPAMINERGIC AGENTS
+N04BA Dopa and dopa derivatives
+N04BB Adamantane derivatives
+N04BC Dopamine agonists
+N04BD Monoamine oxidase B inhibitors
+N04BX Other dopaminergic agents
+N04C OTHER ANTIPARKINSON DRUGS
+N04CX Other antiparkinson drugs
+
+N05 PSYCHOLEPTICS
+N05A ANTIPSYCHOTICS
+N05AA Phenothiazines with aliphatic side-chain
+N05AB Phenothiazines with piperazine structure
+N05AC Phenothiazines with piperidine structure
+N05AD Butyrophenone derivatives
+N05AE Indole derivatives
+N05AF Thioxanthene derivatives
+N05AG Diphenylbutylpiperidine derivatives
+N05AH Diazepines, oxazepines, thiazepines and oxepines
+N05AL Benzamides
+N05AN Lithium
+N05AX Other antipsychotics
+N05B ANXIOLYTICS
+N05BA Benzodiazepine derivatives
+N05BB Diphenylmethane derivatives
+N05BC Carbamates
+N05BD Dibenzo-bicyclo-octadiene derivatives
+N05BE Azaspirodecanedione derivatives
+N05BX Other anxiolytics
+N05C HYPNOTICS AND SEDATIVES
+N05CA Barbiturates, plain
+N05CB Barbiturates, combinations
+N05CC Aldehydes and derivatives
+N05CD Benzodiazepine derivatives
+N05CE Piperidinedione derivatives
+N05CF Benzodiazepine related drugs
+N05CH Melatonin receptor agonists
+N05CM Other hypnotics and sedatives
+N05CX Hypnotics and sedatives in combination, excl. barbiturates
+
+N06 PSYCHOANALEPTICS
+N06A ANTIDEPRESSANTS
+N06AA Non-selective monoamine reuptake inhibitors
+N06AB Selective serotonin reuptake inhibitors
+N06AF Monoamine oxidase inhibitors, non-selective
+N06AG Monoamine oxidase A inhibitors
+N06AX Other antidepressants
+N06B PSYCHOSTIMULANTS, AGENTS USED FOR ADHD AND NOOTROPICS
+N06BA Centrally acting sympathomimetics
+N06BC Xanthine derivatives
+N06BX Other psychostimulants and nootropics
+N06C PSYCHOLEPTICS AND PSYCHOANALEPTICS IN COMBINATION
+N06CA Antidepressants in combination with psycholeptics
+N06CB Psychostimulants in combination with psycholeptics
+N06D ANTI-DEMENTIA DRUGS
+N06DA Anticholinesterases
+N06DX Other anti-dementia drugs
+
+N07 OTHER NERVOUS SYSTEM DRUGS
+N07A PARASYMPATHOMIMETICS
+N07AA Anticholinesterases
+N07AB Choline esters
+N07AX Other parasympathomimetics
+N07B DRUGS USED IN ADDICTIVE DISORDERS
+N07BA Drugs used in nicotine dependence
+N07BB Drugs used in alcohol dependence
+N07BC Drugs used in opioid dependence
+N07C ANTIVERTIGO PREPARATIONS
+N07CA Antivertigo preparations
+N07X OTHER NERVOUS SYSTEM DRUGS
+N07XA Gangliosides and ganglioside derivatives
+N07XX Other nervous system drugs

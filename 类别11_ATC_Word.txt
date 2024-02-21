@@ -1,0 +1,49 @@
+P ANTIPARASITIC PRODUCTS, INSECTICIDES AND REPELLENTS
+
+P01 ANTIPROTOZOALS
+P01A AGENTS AGAINST AMOEBIASIS AND OTHER PROTOZOAL DISEASES
+P01AA Hydroxyquinoline derivatives
+P01AB Nitroimidazole derivatives
+P01AC Dichloroacetamide derivatives
+P01AR Arsenic compounds
+P01AX Other agents against amoebiasis and other protozoal diseases
+P01B ANTIMALARIALS
+P01BA Aminoquinolines
+P01BB Biguanides
+P01BC Methanolquinolines
+P01BD Diaminopyrimidines
+P01BE Artemisinin and derivatives, plain
+P01BF Artemisinin and derivatives, combinations
+P01BX Other antimalarials
+P01C AGENTS AGAINST LEISHMANIASIS AND TRYPANOSOMIASIS
+P01CA Nitroimidazole derivatives
+P01CB Antimony compounds
+P01CC Nitrofuran derivatives
+P01CD Arsenic compounds
+P01CX Other agents against leishmaniasis and trypanosomiasis
+
+P02 ANTHELMINTICS
+P02B ANTITREMATODALS
+P02BA Quinoline derivatives and related substances
+P02BB Organophosphorous compounds
+P02BX Other antitrematodal agents
+P02C ANTINEMATODAL AGENTS
+P02CA Benzimidazole derivatives
+P02CB Piperazine and derivatives
+P02CC Tetrahydropyrimidine derivatives
+P02CE Imidazothiazole derivatives
+P02CF Avermectines
+P02CX Other antinematodals
+P02D ANTICESTODALS
+P02DA Salicylic acid derivatives
+P02DX Other anticestodals
+
+P03 ECTOPARASITICIDES, INCL. SCABICIDES, INSECTICIDES AND REPELLENTS
+P03A ECTOPARASITICIDES, INCL. SCABICIDES
+P03AA Sulfur containing products
+P03AB Chlorine containing products
+P03AC Pyrethrines, incl. synthetic compounds
+P03AX Other ectoparasiticides, incl. scabicides
+P03B INSECTICIDES AND REPELLENTS
+P03BA Pyrethrines
+P03BX Other insecticides and repellents

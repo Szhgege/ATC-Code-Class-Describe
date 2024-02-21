@@ -1,0 +1,59 @@
+M MUSCULO-SKELETAL SYSTEM
+M01 ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS
+M01A ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS, NON-STEROIDS
+M01AA Butylpyrazolidines
+M01AB Acetic acid derivatives and related substances
+M01AC Oxicams
+M01AE Propionic acid derivatives
+M01AG Fenamates
+M01AH Coxibs
+M01AX Other antiinflammatory and antirheumatic agents, non-steroids
+M01B ANTIINFLAMMATORY/ANTIRHEUMATIC AGENTS IN COMBINATION
+M01BA Antiinflammatory/antirheumatic agents in combination with corticosteroids
+M01BX Other antiinflammatory/antirheumatic agents in combination with other drugs
+M01C SPECIFIC ANTIRHEUMATIC AGENTS
+M01CA Quinolines
+M01CB Gold preparations
+M01CC Penicillamine and similar agents
+M01CX Other specific antirheumatic agents
+
+M02 TOPICAL PRODUCTS FOR JOINT AND MUSCULAR PAIN
+M02A TOPICAL PRODUCTS FOR JOINT AND MUSCULAR PAIN
+M02AA Antiinflammatory preparations, non-steroids for topical use
+M02AB Capsaicin and similar agents
+M02AC Preparations with salicylic acid derivatives
+M02AX Other topical products for joint and muscular pain
+
+M03 MUSCLE RELAXANTS
+M03A MUSCLE RELAXANTS, PERIPHERALLY ACTING AGENTS
+M03AA Curare alkaloids
+M03AB Choline derivatives
+M03AC Other quaternary ammonium compounds
+M03AX Other muscle relaxants, peripherally acting agents
+M03B MUSCLE RELAXANTS, CENTRALLY ACTING AGENTS
+M03BA Carbamic acid esters
+M03BB Oxazol, thiazine, and triazine derivatives
+M03BC Ethers, chemically close to antihistamines
+M03BX Other centrally acting agents
+M03C MUSCLE RELAXANTS, DIRECTLY ACTING AGENTS
+M03CA Dantrolene and derivatives
+
+M04 ANTIGOUT PREPARATIONS
+M04A ANTIGOUT PREPARATIONS
+M04AA Preparations inhibiting uric acid production
+M04AB Preparations increasing uric acid excretion
+M04AC Preparations with no effect on uric acid metabolism
+M04AX Other antigout preparations
+
+M05 DRUGS FOR TREATMENT OF BONE DISEASES
+M05B DRUGS AFFECTING BONE STRUCTURE AND MINERALIZATION
+M05BA Bisphosphonates
+M05BB Bisphosphonates, combinations
+M05BC Bone morphogenetic proteins
+M05BX Other drugs affecting bone structure and mineralization
+
+M09 OTHER DRUGS FOR DISORDERS OF THE MUSCULO-SKELETAL SYSTEM
+M09A OTHER DRUGS FOR DISORDERS OF THE MUSCULO-SKELETAL SYSTEM
+M09AA Quinine and derivatives
+M09AB Enzymes
+M09AX Other drugs for disorders of the musculo-skeletal system
