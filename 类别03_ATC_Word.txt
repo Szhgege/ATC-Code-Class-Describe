@@ -1,0 +1,179 @@
+C CARDIOVASCULAR SYSTEM
+
+C01 CARDIAC THERAPY
+C01A CARDIAC GLYCOSIDES
+C01AA Digitalis glycosides
+C01AB Scilla glycosides
+C01AC Strophanthus glycosides
+C01AX Other cardiac glycosides
+C01B ANTIARRHYTHMICS, CLASS I AND III
+C01BA Antiarrhythmics, class Ia
+C01BB Antiarrhythmics, class Ib
+C01BC Antiarrhythmics, class Ic
+C01BD Antiarrhythmics, class III
+C01BG Other antiarrhythmics, class I and III
+C01C CARDIAC STIMULANTS EXCL. CARDIAC GLYCOSIDES
+C01CA Adrenergic and dopaminergic agents
+C01CE Phosphodiesterase inhibitors
+C01CX Other cardiac stimulants
+C01D VASODILATORS USED IN CARDIAC DISEASES
+C01DA Organic nitrates
+C01DB Quinolone vasodilators
+C01DX Other vasodilators used in cardiac diseases
+C01E OTHER CARDIAC PREPARATIONS
+C01EA Prostaglandins
+C01EB Other cardiac preparations
+C01EX Other cardiac combination products
+
+C02 ANTIHYPERTENSIVES
+C02A ANTIADRENERGIC AGENTS, CENTRALLY ACTING
+C02AA Rauwolfia alkaloids
+C02AB Methyldopa
+C02AC Imidazoline receptor agonists
+C02B ANTIADRENERGIC AGENTS, GANGLION-BLOCKING
+C02BA Sulfonium derivatives
+C02BB Secondary and tertiary amines
+C02BC Bisquaternary ammonium compounds
+C02C ANTIADRENERGIC AGENTS, PERIPHERALLY ACTING
+C02CA Alpha-adrenoreceptor antagonists
+C02CC Guanidine derivatives
+C02D ARTERIOLAR SMOOTH MUSCLE, AGENTS ACTING ON
+C02DA Thiazide derivatives
+C02DB Hydrazinophthalazine derivatives
+C02DC Pyrimidine derivatives
+C02DD Nitroferricyanide derivatives
+C02DG Guanidine derivatives
+C02K OTHER ANTIHYPERTENSIVES
+C02KA Alkaloids, excl. rauwolfia
+C02KB Tyrosine hydroxylase inhibitors
+C02KC MAO inhibitors
+C02KD Serotonin antagonists
+C02KX Antihypertensives for pulmonary arterial hypertension
+C02L ANTIHYPERTENSIVES AND DIURETICS IN COMBINATION
+C02LA Rauwolfia alkaloids and diuretics in combination
+C02LB Methyldopa and diuretics in combination
+C02LC Imidazoline receptor agonists in combination with diuretics
+C02LE Alpha-adrenoreceptor antagonists and diuretics
+C02LF Guanidine derivatives and diuretics
+C02LG Hydrazinophthalazine derivatives and diuretics
+C02LK Alkaloids, excl. rauwolfia, in combination with diuretics
+C02LL MAO inhibitors and diuretics
+C02LN Serotonin antagonists and diuretics
+C02LX Other antihypertensives and diuretics
+C02N COMBINATIONS OF ANTIHYPERTENSIVES IN ATC-GR. C02
+
+C03 DIURETICS
+C03A LOW-CEILING DIURETICS, THIAZIDES
+C03AA Thiazides, plain
+C03AB Thiazides and potassium in combination
+C03AH Thiazides, combinations with psycholeptics and/or analgesics
+C03AX Thiazides, combinations with other drugs
+C03B LOW-CEILING DIURETICS, EXCL. THIAZIDES
+C03BA Sulfonamides, plain
+C03BB Sulfonamides and potassium in combination
+C03BC Mercurial diuretics
+C03BD Xanthine derivatives
+C03BK Sulfonamides, combinations with other drugs
+C03BX Other low-ceiling diuretics
+C03C HIGH-CEILING DIURETICS
+C03CA Sulfonamides, plain
+C03CB Sulfonamides and potassium in combination
+C03CC Aryloxyacetic acid derivatives
+C03CD Pyrazolone derivatives
+C03CX Other high-ceiling diuretics
+C03D ALDOSTERONE ANTAGONISTS AND OTHER POTASSIUM-SPARING AGENTS
+C03DA Aldosterone antagonists
+C03DB Other potassium-sparing agents
+C03E DIURETICS AND POTASSIUM-SPARING AGENTS IN COMBINATION
+C03EA Low-ceiling diuretics and potassium-sparing agents
+C03EB High-ceiling diuretics and potassium-sparing agents
+C03X OTHER DIURETICS
+C03XA Vasopressin antagonists
+
+C04 PERIPHERAL VASODILATORS
+C04A PERIPHERAL VASODILATORS
+C04AA 2-amino-1-phenylethanol derivatives
+C04AB Imidazoline derivatives
+C04AC Nicotinic acid and derivatives
+C04AD Purine derivatives
+C04AE Ergot alkaloids
+C04AF Enzymes
+C04AX Other peripheral vasodilators
+
+C05 VASOPROTECTIVES
+C05A AGENTS FOR TREATMENT OF HEMORRHOIDS AND ANAL FISSURES FOR TOPICAL USE
+C05AA Corticosteroids
+C05AB Antibiotics
+C05AD Local anesthetics
+C05AE Muscle relaxants
+C05AX Other agents for treatment of hemorrhoids and anal fissures for topical use
+C05B ANTIVARICOSE THERAPY
+C05BA Heparins or heparinoids for topical use
+C05BB Sclerosing agents for local injection
+C05BX Other sclerosing agents
+C05C CAPILLARY STABILIZING AGENTS
+C05CA Bioflavonoids
+C05CX Other capillary stabilizing agents
+
+C07 BETA BLOCKING AGENTS
+C07A BETA BLOCKING AGENTS
+C07AA Beta blocking agents, non-selective
+C07AB Beta blocking agents, selective
+C07AG Alpha and beta blocking agents
+C07B BETA BLOCKING AGENTS AND THIAZIDES
+C07BA Beta blocking agents, non-selective, and thiazides
+C07BB Beta blocking agents, selective, and thiazides
+C07BG Alpha and beta blocking agents and thiazides
+C07C BETA BLOCKING AGENTS AND OTHER DIURETICS
+C07CA Beta blocking agents, non-selective, and other diuretics
+C07CB Beta blocking agents, selective, and other diuretics
+C07CG Alpha and beta blocking agents and other diuretics
+C07D BETA BLOCKING AGENTS, THIAZIDES AND OTHER DIURETICS
+C07DA Beta blocking agents, non-selective, thiazides and other diuretics
+C07DB Beta blocking agents, selective, thiazides and other diuretics
+C07E BETA BLOCKING AGENTS AND VASODILATORS
+C07EA Beta blocking agents, non-selective, and vasodilators
+C07EB Beta blocking agents, selective, and vasodilators
+C07F BETA BLOCKING AGENTS, OTHER COMBINATIONS
+C07FB Beta blocking agents and calcium channel blockers
+C07FX Beta blocking agents, other combinations
+
+C08 CALCIUM CHANNEL BLOCKERS
+C08C SELECTIVE CALCIUM CHANNEL BLOCKERS WITH MAINLY VASCULAR EFFECTS
+C08CA Dihydropyridine derivatives
+C08CX Other selective calcium channel blockers with mainly vascular effects
+C08D SELECTIVE CALCIUM CHANNEL BLOCKERS WITH DIRECT CARDIAC EFFECTS
+C08DA Phenylalkylamine derivatives
+C08DB Benzothiazepine derivatives
+C08E NON-SELECTIVE CALCIUM CHANNEL BLOCKERS
+C08EA Phenylalkylamine derivatives
+C08EX Other non-selective calcium channel blockers
+C08G CALCIUM CHANNEL BLOCKERS AND DIURETICS
+C08GA Calcium channel blockers and diuretics
+
+C09 AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM
+C09A ACE INHIBITORS, PLAIN
+C09AA ACE inhibitors, plain
+C09B ACE INHIBITORS, COMBINATIONS
+C09BA ACE inhibitors and diuretics
+C09BB ACE inhibitors and calcium channel blockers
+C09BX ACE inhibitors, other combinations
+C09C ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs), PLAIN
+C09CA Angiotensin II receptor blockers (ARBs), plain
+C09D ANGIOTENSIN II RECEPTOR BLOCKERS (ARBs), COMBINATIONS
+C09DA Angiotensin II receptor blockers (ARBs) and diuretics
+C09DB Angiotensin II receptor blockers (ARBs) and calcium channel blockers
+C09DX Angiotensin II receptor blockers (ARBs), other combinations
+C09X OTHER AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM
+C09XA Renin-inhibitors
+
+C10 LIPID MODIFYING AGENTS
+C10A LIPID MODIFYING AGENTS, PLAIN
+C10AA HMG CoA reductase inhibitors
+C10AB Fibrates
+C10AC Bile acid sequestrants
+C10AD Nicotinic acid and derivatives
+C10AX Other lipid modifying agents
+C10B LIPID MODIFYING AGENTS, COMBINATIONS
+C10BA Combinations of various lipid modifying agents
+C10BX Lipid modifying agents in combination with other drugs
